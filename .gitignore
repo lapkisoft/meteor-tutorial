@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+Thumbs.db:encryptable
+.idea/
+node_modules/
